@@ -1,0 +1,43 @@
+name: Refresh advisor roster
+
+on:
+  schedule:
+    # 09:00 UTC = 2:00 AM in Phoenix (Arizona stays on MST all year).
+    # GitHub can start scheduled runs a few minutes late when it's busy.
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Save the pull even if the roster dropped sharply"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-advisors
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v6
+
+      - name: Pull the roster from Sanity
+        id: pull
+        env:
+          FORCE: ${{ inputs.force && '1' || '0' }}
+        run: python3 scripts/refresh_advisors.py
+
+      - name: Commit and push if anything changed
+        if: steps.pull.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -F "$RUNNER_TEMP/commit_msg.txt"
+          git push
