@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-09-25T16:51:32Z",
+  "lastChanged": "2026-09-26T13:28:29Z",
   "count": 294,
   "advisors": [
     {
@@ -1434,9 +1434,9 @@
     {
       "displayName": "Christopher Masso",
       "designations": [
-        "CRPS™"
+        "CRPS®"
       ],
-      "nameAsPublished": "Christopher Masso, CRPS™",
+      "nameAsPublished": "Christopher Masso, CRPS®",
       "title": "Principal, Wealth Advisor",
       "email": "christopher.masso@farther.com",
       "phone": null,
@@ -1455,7 +1455,7 @@
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/a0b3d2e94171f3ac6350f7a1d7235c4f482c96d3-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "BS in Economics, University of Delaware",
-        "Chartered Retirement Plans Specialist™"
+        "Chartered Retirement Plans Specialist®"
       ],
       "slug": "christopher-masso"
     },
