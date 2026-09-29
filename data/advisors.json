@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-09-26T13:28:29Z",
-  "count": 294,
+  "lastChanged": "2026-09-29T15:13:30Z",
+  "count": 296,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -761,6 +761,32 @@
       "slug": "bob-kelly"
     },
     {
+      "displayName": "Bob Tabor",
+      "designations": [
+        "AIF®",
+        "AWMA®"
+      ],
+      "nameAsPublished": "Bob Tabor, AIF®, AWMA®",
+      "title": "Principal, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Austin",
+      "state": "TX",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/bob-tabor",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b6a89cd62a2745fc33afca66aee72e469123c319-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b6a89cd62a2745fc33afca66aee72e469123c319-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b6a89cd62a2745fc33afca66aee72e469123c319-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "30 years providing wealth management services",
+        "AIF",
+        "AWMA"
+      ],
+      "slug": "bob-tabor"
+    },
+    {
       "displayName": "Bobby Hart",
       "designations": [],
       "nameAsPublished": "Bobby Hart",
@@ -955,11 +981,7 @@
       "phoneDisplay": "(910) 310-5599",
       "city": "Wilmington",
       "state": "NC",
-      "team": {
-        "name": "Tax-Efficient Financial Planning & Retirement Strategies",
-        "url": "https://www.farther.com/teams/brett-tushingham",
-        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a3936fd69656d63519f1801355fb0c9562e6791-1160x1200.avif"
-      },
+      "team": null,
       "profileUrl": "https://www.farther.com/advisor/brett-tushingham",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a3936fd69656d63519f1801355fb0c9562e6791-1160x1200.avif",
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a3936fd69656d63519f1801355fb0c9562e6791-1160x1200.avif?fm=jpg&q=90",
@@ -1337,6 +1359,25 @@
         "2008-25 Five Star: Wealth Manager"
       ],
       "slug": "chris-douglas"
+    },
+    {
+      "displayName": "Chris Roy",
+      "designations": [],
+      "nameAsPublished": "Chris Roy",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": "chris.roy@farther.com",
+      "phone": "+18577373753",
+      "phoneExt": null,
+      "phoneDisplay": "(857) 737-3753",
+      "city": "Boston",
+      "state": "MA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/chris-roy",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/31f14dc75e7712c253ee0a13dcf8e8ad76c86106-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/31f14dc75e7712c253ee0a13dcf8e8ad76c86106-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/31f14dc75e7712c253ee0a13dcf8e8ad76c86106-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [],
+      "slug": "chris-roy"
     },
     {
       "displayName": "Chris Tarkowski",
