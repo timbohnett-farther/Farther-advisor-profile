@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-09-29T15:13:30Z",
+  "lastChanged": "2026-09-30T15:27:56Z",
   "count": 296,
   "advisors": [
     {
@@ -1373,9 +1373,9 @@
       "state": "MA",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/chris-roy",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/31f14dc75e7712c253ee0a13dcf8e8ad76c86106-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/31f14dc75e7712c253ee0a13dcf8e8ad76c86106-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/31f14dc75e7712c253ee0a13dcf8e8ad76c86106-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c78ff236d78fa8f6b4fa85a178bfb4fa2c872f44-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c78ff236d78fa8f6b4fa85a178bfb4fa2c872f44-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c78ff236d78fa8f6b4fa85a178bfb4fa2c872f44-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [],
       "slug": "chris-roy"
     },
@@ -6813,9 +6813,9 @@
       "state": "OK",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/todd-link",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/6e023853e9a62e7ae50b0bcf9c9a3b015e2bfb06-1160x1200.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/6e023853e9a62e7ae50b0bcf9c9a3b015e2bfb06-1160x1200.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/6e023853e9a62e7ae50b0bcf9c9a3b015e2bfb06-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dd968cc7f827e8fc4f97f2708e3a5bd7cd2e0175-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dd968cc7f827e8fc4f97f2708e3a5bd7cd2e0175-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dd968cc7f827e8fc4f97f2708e3a5bd7cd2e0175-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "Series 7, 63 & 65."
       ],
