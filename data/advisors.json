@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-09-30T15:27:56Z",
-  "count": 296,
+  "lastChanged": "2026-10-01T15:49:04Z",
+  "count": 298,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -1182,9 +1182,10 @@
       "displayName": "Carrie Ma",
       "designations": [
         "CFP®",
+        "EA",
         "TPCP®"
       ],
-      "nameAsPublished": "Carrie Ma, CFP®, TPCP®",
+      "nameAsPublished": "Carrie Ma, CFP®, EA, TPCP®",
       "title": "Associate Vice President, Wealth Advisor",
       "email": "carrie.ma@farther.com",
       "phone": "+19177271998",
@@ -1204,7 +1205,8 @@
       "credentials": [
         "CERTIFIED FINANCIAL PLANNER®",
         "TAX PLANNING CERTIFIED PROFESSIONAL®",
-        "FINRA Series 7 and 66"
+        "FINRA Series 7 and 66",
+        "IRS Enrolled Agent (EA)"
       ],
       "slug": "carrie-ma"
     },
@@ -2443,6 +2445,25 @@
       "slug": "erik-j-larsen"
     },
     {
+      "displayName": "Evan Brockmeier",
+      "designations": [],
+      "nameAsPublished": "Evan Brockmeier",
+      "title": "Vice President, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Marietta",
+      "state": "OH",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/evan-brockmeier",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/36295e303b13b8edf68b28203b2138b442d0a246-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/36295e303b13b8edf68b28203b2138b442d0a246-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/36295e303b13b8edf68b28203b2138b442d0a246-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [],
+      "slug": "evan-brockmeier"
+    },
+    {
       "displayName": "Evor Vattuone",
       "designations": [
         "CFP®"
@@ -2473,9 +2494,9 @@
       "nameAsPublished": "Felton Jenkins, CFA",
       "title": "Vice President, Wealth Advisor",
       "email": "felton.jenkins@farther.com",
-      "phone": null,
+      "phone": "+15412006953",
       "phoneExt": null,
-      "phoneDisplay": null,
+      "phoneDisplay": "(541) 200-6953",
       "city": "Hood River",
       "state": "OR",
       "team": null,
@@ -5416,6 +5437,27 @@
         "Series 65"
       ],
       "slug": "nathan-chapel"
+    },
+    {
+      "displayName": "Neal Watson",
+      "designations": [
+        "CFP®"
+      ],
+      "nameAsPublished": "Neal Watson, CFP®",
+      "title": "Principal, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Marietta",
+      "state": "OH",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/neal-watson",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f8942ee4bf25c84e6bbc4e76db5b8766357d184e-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f8942ee4bf25c84e6bbc4e76db5b8766357d184e-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f8942ee4bf25c84e6bbc4e76db5b8766357d184e-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [],
+      "slug": "neal-watson"
     },
     {
       "displayName": "Nelson Bradshaw",
