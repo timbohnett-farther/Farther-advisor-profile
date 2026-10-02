@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-01T15:49:04Z",
+  "lastChanged": "2026-10-02T15:10:46Z",
   "count": 298,
   "advisors": [
     {
@@ -1511,7 +1511,7 @@
       "phone": "+18573744484",
       "phoneExt": null,
       "phoneDisplay": "(857) 374-4484",
-      "city": "Boston",
+      "city": "Quincy",
       "state": "MA",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/christopher-veneto",
@@ -1634,9 +1634,9 @@
       "state": "OH",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/craig-sarembock",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/2685dbd8a1052234eb85a6d39204f59345eb3775-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/2685dbd8a1052234eb85a6d39204f59345eb3775-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/2685dbd8a1052234eb85a6d39204f59345eb3775-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8fbc3037277728d0cd43fd45fc451d770288f294-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8fbc3037277728d0cd43fd45fc451d770288f294-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8fbc3037277728d0cd43fd45fc451d770288f294-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "BA in Economics, Princeton University",
         "MBA, Columbia University"
@@ -6555,7 +6555,11 @@
       "phoneDisplay": null,
       "city": "San Francisco",
       "state": "CA",
-      "team": null,
+      "team": {
+        "name": "IndiCo",
+        "url": "https://www.farther.com/teams/indico",
+        "logoUrl": null
+      },
       "profileUrl": "https://www.farther.com/advisor/sutanto-widjaja",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/9e411236cde3b0d0244178c2da1cd0375bc52f0f-1160x1200.avif",
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/9e411236cde3b0d0244178c2da1cd0375bc52f0f-1160x1200.avif?fm=jpg&q=90",
