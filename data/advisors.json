@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-02T15:10:46Z",
-  "count": 298,
+  "lastChanged": "2026-10-03T14:03:48Z",
+  "count": 299,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -2889,6 +2889,31 @@
       "slug": "jacob-barr"
     },
     {
+      "displayName": "James Babcock",
+      "designations": [
+        "CPA",
+        "CFA",
+        "MBA"
+      ],
+      "nameAsPublished": "James Babcock, CPA, CFA, MBA",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": "james.babcock@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Ridgefield",
+      "state": "Connecticut",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/james-babcock",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/29d8755f9ad8eaf729b2bd7025201a97dc504e39-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/29d8755f9ad8eaf729b2bd7025201a97dc504e39-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/29d8755f9ad8eaf729b2bd7025201a97dc504e39-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "MBA Finance, University of Michigan, Ross School of Business"
+      ],
+      "slug": "james-babcock"
+    },
+    {
       "displayName": "James Bauman",
       "designations": [
         "CFP®"
@@ -5601,7 +5626,7 @@
       "displayName": "Patrick Golden",
       "designations": [],
       "nameAsPublished": "Patrick Golden",
-      "title": "Vice President, Wealth Advisor",
+      "title": "Senior Vice President, Wealth Advisor",
       "email": null,
       "phone": null,
       "phoneExt": null,
@@ -6032,8 +6057,8 @@
       "phone": "+19255004995",
       "phoneExt": null,
       "phoneDisplay": "(925) 500-4995",
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Nationwide",
+      "state": null,
       "team": {
         "name": "Accelerate",
         "url": "https://www.farther.com/teams/accelerate",
@@ -6044,8 +6069,8 @@
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/bd554587f71b683d950a30c5cb4ba9571e4722aa-1160x1162.avif?fm=jpg&q=90",
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/bd554587f71b683d950a30c5cb4ba9571e4722aa-1160x1162.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
-        "CERTIFIED FINANCIAL PLANNER® Professional, University of California, Berkeley",
-        "Registered FINRA Advisor"
+        "Certification in Financial Planning from University of California, Berkeley",
+        " Registered FINRA Advisor"
       ],
       "slug": "roy-satterthwaite"
     },
