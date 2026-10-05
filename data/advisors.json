@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-03T14:03:48Z",
-  "count": 299,
+  "lastChanged": "2026-10-05T17:34:32Z",
+  "count": 303,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -1266,6 +1266,31 @@
       "slug": "chad-rishel"
     },
     {
+      "displayName": "Charles Cernosia",
+      "designations": [
+        "CFA®"
+      ],
+      "nameAsPublished": "Charles Cernosia, CFA®",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": null,
+      "phone": "+19732219997",
+      "phoneExt": null,
+      "phoneDisplay": "(973) 221-9997",
+      "city": "Morris Plains",
+      "state": "NJ",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/charles-cernosia",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f1603a25fd23bd42c60e740909cc15b1d218e53c-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f1603a25fd23bd42c60e740909cc15b1d218e53c-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f1603a25fd23bd42c60e740909cc15b1d218e53c-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "B.A in Economics and Political Science, Stanford University",
+        "MBA with concentration in Analytic Finance, University of Chicago",
+        "CFA Charterholder"
+      ],
+      "slug": "charles-cernosia"
+    },
+    {
       "displayName": "Charles Sullivan",
       "designations": [
         "CFP®"
@@ -2189,9 +2214,9 @@
       "state": "NM",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/doug-lindsey",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/eefc3999d3e3267d15d9b24824129455e94467cc-1160x1200.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/eefc3999d3e3267d15d9b24824129455e94467cc-1160x1200.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/eefc3999d3e3267d15d9b24824129455e94467cc-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/50ea5158ed59838740ef148bbc61ad38f324f236-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/50ea5158ed59838740ef148bbc61ad38f324f236-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/50ea5158ed59838740ef148bbc61ad38f324f236-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "Certificate in Financial Planning, Boston University",
         "CERTIFIED FINANCIAL PLANNER®"
@@ -4876,6 +4901,30 @@
       "slug": "matthew-coakley"
     },
     {
+      "displayName": "Matthew Desmond",
+      "designations": [
+        "CFA"
+      ],
+      "nameAsPublished": "Matthew Desmond, CFA",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Traverse City",
+      "state": "MI",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/matthew-desmond",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7e5369215f347152b4dca870a618e3a4a01ecd7a-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7e5369215f347152b4dca870a618e3a4a01ecd7a-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7e5369215f347152b4dca870a618e3a4a01ecd7a-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "BA, University of Notre Dame",
+        "Certified Financial Analyst®"
+      ],
+      "slug": "matthew-desmond"
+    },
+    {
       "displayName": "Matthew Remis",
       "designations": [],
       "nameAsPublished": "Matthew Remis",
@@ -5640,6 +5689,30 @@
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/68d0ccfb5f0ad66dd504fe94a2de19c7c3f900e7-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [],
       "slug": "patrick-golden"
+    },
+    {
+      "displayName": "Paul Pfeiffer",
+      "designations": [],
+      "nameAsPublished": "Paul Pfeiffer",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Milford",
+      "state": "OH",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/paul-pfeiffer",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/12ff0ec8506ea8fc58be95e37d8a9569fc6a97e3-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/12ff0ec8506ea8fc58be95e37d8a9569fc6a97e3-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/12ff0ec8506ea8fc58be95e37d8a9569fc6a97e3-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "Certified Financial Planner®",
+        "Bachelor of Science, Finance - University of Dayton",
+        "Masters of Business Administration, Finance - Drexel University ",
+        "CFA® Program participant, CFA Institute"
+      ],
+      "slug": "paul-pfeiffer"
     },
     {
       "displayName": "Paul Salvetti",
@@ -7358,6 +7431,29 @@
         "MBA, UCI"
       ],
       "slug": "zach-staggs"
+    },
+    {
+      "displayName": "Zachary Liggett",
+      "designations": [
+        "CFA"
+      ],
+      "nameAsPublished": "Zachary Liggett, CFA",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": "zachary.liggett@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": null,
+      "state": null,
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/zachary-liggett",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "Certified Financial Analyst®"
+      ],
+      "slug": "zachary-liggett"
     },
     {
       "displayName": "Zina Kumok",
