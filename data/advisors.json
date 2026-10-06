@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-05T17:34:32Z",
-  "count": 303,
+  "lastChanged": "2026-10-06T15:33:00Z",
+  "count": 304,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -309,6 +309,30 @@
         "RICP®"
       ],
       "slug": "andrew-karasyk"
+    },
+    {
+      "displayName": "Andy Jordan",
+      "designations": [
+        "CFP®"
+      ],
+      "nameAsPublished": "Andy Jordan, CFP®",
+      "title": "Associate Vice President, Wealth Advisor",
+      "email": "andrew.jordan@farther.com",
+      "phone": "+17062050808",
+      "phoneExt": null,
+      "phoneDisplay": "(706) 205-0808",
+      "city": "Athens",
+      "state": "GA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/andy-jordan",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/00e5c87d02723ec07bb4ef7196a89777787ee71e-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/00e5c87d02723ec07bb4ef7196a89777787ee71e-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/00e5c87d02723ec07bb4ef7196a89777787ee71e-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "CERTIFIED FINANCIAL PLANNER® professional ",
+        "BBA in Business Management, Georgia College & State University"
+      ],
+      "slug": "andy-jordan"
     },
     {
       "displayName": "Anthony Danaher",
@@ -4756,10 +4780,10 @@
       ],
       "nameAsPublished": "Mark Phillips, MBA, CFP®, AIF®",
       "title": "Vice President, Wealth Advisor",
-      "email": null,
-      "phone": null,
+      "email": "mark.phillips@farther.com",
+      "phone": "+19498414200",
       "phoneExt": null,
-      "phoneDisplay": null,
+      "phoneDisplay": "(949) 841-4200",
       "city": "Newport Beach",
       "state": "CA",
       "team": null,
@@ -7411,6 +7435,29 @@
       "slug": "zac-etoch"
     },
     {
+      "displayName": "Zach Liggett",
+      "designations": [
+        "CFA"
+      ],
+      "nameAsPublished": "Zach Liggett, CFA",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": "zachary.liggett@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": null,
+      "state": null,
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/zach-liggett",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "Certified Financial Analyst®"
+      ],
+      "slug": "zach-liggett"
+    },
+    {
       "displayName": "Zach Staggs",
       "designations": [],
       "nameAsPublished": "Zach Staggs",
@@ -7431,29 +7478,6 @@
         "MBA, UCI"
       ],
       "slug": "zach-staggs"
-    },
-    {
-      "displayName": "Zachary Liggett",
-      "designations": [
-        "CFA"
-      ],
-      "nameAsPublished": "Zachary Liggett, CFA",
-      "title": "Senior Vice President, Wealth Advisor",
-      "email": "zachary.liggett@farther.com",
-      "phone": null,
-      "phoneExt": null,
-      "phoneDisplay": null,
-      "city": null,
-      "state": null,
-      "team": null,
-      "profileUrl": "https://www.farther.com/advisor/zachary-liggett",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
-      "credentials": [
-        "Certified Financial Analyst®"
-      ],
-      "slug": "zachary-liggett"
     },
     {
       "displayName": "Zina Kumok",
