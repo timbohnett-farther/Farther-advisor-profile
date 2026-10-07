@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-06T15:33:00Z",
-  "count": 304,
+  "lastChanged": "2026-10-07T15:54:14Z",
+  "count": 305,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -6172,6 +6172,28 @@
       "slug": "roy-satterthwaite"
     },
     {
+      "displayName": "Russell Clifford",
+      "designations": [],
+      "nameAsPublished": "Russell Clifford",
+      "title": "Vice President, Wealth Advisor",
+      "email": "russell.clifford@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Santa Rosa",
+      "state": "CA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/russell-clifford",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8e5da23a08dae0720c61aba451803b25884876d0-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8e5da23a08dae0720c61aba451803b25884876d0-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8e5da23a08dae0720c61aba451803b25884876d0-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "Certified Divorce Financial Analyst",
+        "CERTIFIED FINANCIAL PLANNER®"
+      ],
+      "slug": "russell-clifford"
+    },
+    {
       "displayName": "Ryan Gappinger",
       "designations": [],
       "nameAsPublished": "Ryan Gappinger",
@@ -6904,9 +6926,9 @@
       "nameAsPublished": "Tim Schott, CPA, PFS",
       "title": "Managing Director, Wealth Advisor",
       "email": "tim.schott@farther.com",
-      "phone": null,
+      "phone": "+13039575685",
       "phoneExt": null,
-      "phoneDisplay": null,
+      "phoneDisplay": "(303) 957-5685",
       "city": "Tucson",
       "state": "AZ",
       "team": null,
