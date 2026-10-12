@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-08T15:57:06Z",
-  "count": 305,
+  "lastChanged": "2026-10-12T18:21:17Z",
+  "count": 306,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -2563,7 +2563,7 @@
       "displayName": "Ferris Dean",
       "designations": [],
       "nameAsPublished": "Ferris Dean",
-      "title": "Relationship Manager & Associate Financial Planner",
+      "title": "Relationship Manager ",
       "email": null,
       "phone": null,
       "phoneExt": null,
@@ -2860,6 +2860,32 @@
         "BS in Finance with a minor in Economics, University of Pittsburgh, College of Business Administration"
       ],
       "slug": "hunter-shaughnessy"
+    },
+    {
+      "displayName": "Ira Zito",
+      "designations": [
+        "CFP®",
+        "ChFC®"
+      ],
+      "nameAsPublished": "Ira Zito, CFP®, ChFC®",
+      "title": "Associate Vice President, Wealth Manager",
+      "email": "ira.zito@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Westlake Village",
+      "state": "CA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/ira-zito",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c1c4a08353b577a0a18f2f3a3d4046900b5ad273-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c1c4a08353b577a0a18f2f3a3d4046900b5ad273-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c1c4a08353b577a0a18f2f3a3d4046900b5ad273-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "CERTIFIED FINANCIAL PLANNER®",
+        "MBA Finance, Long Island University",
+        "Chartered Financial Consultant®"
+      ],
+      "slug": "ira-zito"
     },
     {
       "displayName": "Jackie Klauberg",
@@ -4526,9 +4552,9 @@
         "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1454b32f5d011c8220c9f85b354a1279d3f92e77-301x34.svg"
       },
       "profileUrl": "https://www.farther.com/advisor/lewis-baker",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/56e4064140c7841b3953ada63a4bf0e3c6ae4c65-1160x1200.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/56e4064140c7841b3953ada63a4bf0e3c6ae4c65-1160x1200.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/56e4064140c7841b3953ada63a4bf0e3c6ae4c65-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/80dc6af78dbacd2d9bf5687690bca13740e4d5e8-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/80dc6af78dbacd2d9bf5687690bca13740e4d5e8-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/80dc6af78dbacd2d9bf5687690bca13740e4d5e8-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "CFP®",
         "CEPA®",
@@ -5028,7 +5054,11 @@
       "phoneDisplay": "(206) 929-0804",
       "city": "Edmonds",
       "state": "WA",
-      "team": null,
+      "team": {
+        "name": "Rock Creek Team",
+        "url": "https://www.farther.com/teams/rock-creek-team",
+        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1454b32f5d011c8220c9f85b354a1279d3f92e77-301x34.svg"
+      },
       "profileUrl": "https://www.farther.com/advisor/merissa-benitez-jackson",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1bc38091303ee468f246b4596dbb4b07409640bf-1160x1200.avif",
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1bc38091303ee468f246b4596dbb4b07409640bf-1160x1200.avif?fm=jpg&q=90",
