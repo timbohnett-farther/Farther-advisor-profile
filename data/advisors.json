@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-12T18:21:17Z",
-  "count": 306,
+  "lastChanged": "2026-10-13T16:35:00Z",
+  "count": 307,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -3711,6 +3711,29 @@
       "slug": "john-torrence"
     },
     {
+      "displayName": "John Underhill",
+      "designations": [
+        "CFP®"
+      ],
+      "nameAsPublished": "John Underhill, CFP®",
+      "title": "Vice President, Wealth Advisor",
+      "email": "john.underhill@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Raleigh",
+      "state": "NC",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/john-underhill",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/08b333dabf88862afc5214322094794842d21db7-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/08b333dabf88862afc5214322094794842d21db7-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/08b333dabf88862afc5214322094794842d21db7-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "CERTIFIED FINANCIAL PLANNER® (CFP®)"
+      ],
+      "slug": "john-underhill"
+    },
+    {
       "displayName": "Johnny Fauver",
       "designations": [
         "CFP®"
@@ -4599,11 +4622,7 @@
       "phoneDisplay": "(720) 419-2853",
       "city": "Austin",
       "state": "TX",
-      "team": {
-        "name": "Wealthnet",
-        "url": "https://www.farther.com/teams/wealthnet",
-        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/359df69766c64e6a4b9daa22f055282e8e370f3a-227x34.svg"
-      },
+      "team": null,
       "profileUrl": "https://www.farther.com/advisor/louis-blyth-llanes",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/eddd725f2ae22ef38e779fc5282be56815bf2c54-720x800.png",
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/eddd725f2ae22ef38e779fc5282be56815bf2c54-720x800.png?fm=jpg&q=90",
