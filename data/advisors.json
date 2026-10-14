@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-13T16:35:00Z",
+  "lastChanged": "2026-10-14T14:11:03Z",
   "count": 307,
   "advisors": [
     {
@@ -1495,7 +1495,6 @@
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/02c1f7814f557b786b2c47e9cd520c79c8e47a02-1160x1200.avif?fm=jpg&q=90",
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/02c1f7814f557b786b2c47e9cd520c79c8e47a02-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
-        "10+ years of wealth management experience",
         "Accredited Wealth Management Advisor℠"
       ],
       "slug": "christian-pierce"
@@ -3154,7 +3153,6 @@
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f2b95be87b4dc1f17e6b7030e6686590cb5ff25b-720x800.png?fm=jpg&q=90",
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f2b95be87b4dc1f17e6b7030e6686590cb5ff25b-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
-        "12 Years of Experience in Corporate Finance & International Work",
         "Entrepreneurial & Small Business Owner Background"
       ],
       "slug": "jay-chang"
