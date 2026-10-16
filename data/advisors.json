@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-15T13:47:22Z",
+  "lastChanged": "2026-10-16T13:37:36Z",
   "count": 307,
   "advisors": [
     {
@@ -336,8 +336,10 @@
     },
     {
       "displayName": "Anthony Danaher",
-      "designations": [],
-      "nameAsPublished": "Anthony Danaher",
+      "designations": [
+        "CEPA®"
+      ],
+      "nameAsPublished": "Anthony Danaher, CEPA®",
       "title": "Principal, Wealth Advisor",
       "email": "anthony.danaher@farther.com",
       "phone": null,
@@ -356,7 +358,8 @@
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/cc65ab987832fc6a56bfee759f8518bba5735b4a-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "MBA, Pepperdine University",
-        "BA in Business & Accounting, Maharishi University of Management"
+        "BA in Business & Accounting, Maharishi University of Management",
+        "Certified Exit Planning Advisor"
       ],
       "slug": "anthony-danaher"
     },
