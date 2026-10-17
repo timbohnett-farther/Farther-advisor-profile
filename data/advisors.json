@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-16T13:37:36Z",
-  "count": 307,
+  "lastChanged": "2026-10-17T12:34:20Z",
+  "count": 308,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -671,7 +671,7 @@
         "CLTC®"
       ],
       "nameAsPublished": "Bill McNeer, CFP®, AIF®, CLTC®",
-      "title": "Vice President, Wealth Advisor",
+      "title": "Senior Vice President, Wealth Advisor",
       "email": "bill.mcneer@farther.com",
       "phone": "+18434389948",
       "phoneExt": null,
@@ -2088,7 +2088,7 @@
       "displayName": "Dennis Mykytyn",
       "designations": [],
       "nameAsPublished": "Dennis Mykytyn",
-      "title": null,
+      "title": "Senior Vice President, Wealth Advisor",
       "email": "dennis.mykytyn@farther.com",
       "phone": "+12125315600",
       "phoneExt": null,
@@ -2943,7 +2943,7 @@
         "CRPC®"
       ],
       "nameAsPublished": "Jacob Barr, CFP®, CRPC®",
-      "title": "Vice President, Wealth Advisor",
+      "title": "Senior Vice President, Wealth Advisor",
       "email": "jacob.barr@farther.com",
       "phone": "+12184618768",
       "phoneExt": null,
@@ -4075,7 +4075,7 @@
         "CFP®"
       ],
       "nameAsPublished": "Josh Dvorak, CFP®",
-      "title": "Managing Director, Wealth Advisor",
+      "title": "Principal, Wealth Advisor",
       "email": "josh.dvorak@farther.com",
       "phone": "+15128080854",
       "phoneExt": null,
@@ -4616,7 +4616,7 @@
         "CMT®"
       ],
       "nameAsPublished": "Louis Blyth Llanes, CFA, CMT®",
-      "title": "Senior Vice President, Wealth Advisor",
+      "title": "Managing Director, Wealth Advisor",
       "email": "louis.llanes@farther.com",
       "phone": "+17204192853",
       "phoneExt": null,
@@ -5045,7 +5045,7 @@
         "AIF®"
       ],
       "nameAsPublished": "Melissa Fradenburg, CDFA®, AIF®",
-      "title": "Vice President, Wealth Advisor",
+      "title": "Senior Vice President, Wealth Advisor",
       "email": "melissa.fradenburg@farther.com",
       "phone": "+13134034475",
       "phoneExt": null,
@@ -6990,6 +6990,33 @@
         "CPA/PFS™"
       ],
       "slug": "tim-schott"
+    },
+    {
+      "displayName": "Todd Gilmore",
+      "designations": [
+        "CIMC®",
+        "RMA®"
+      ],
+      "nameAsPublished": "Todd Gilmore, CIMC®, RMA®",
+      "title": "Managing Director, Wealth Advisor",
+      "email": "todd.gilmore@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "O 'Fallon",
+      "state": "MO",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/todd-gilmore",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c5b56da3368accb1c6547f341cf04591481c85f6-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c5b56da3368accb1c6547f341cf04591481c85f6-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/c5b56da3368accb1c6547f341cf04591481c85f6-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "BBA, Southern Methodist University",
+        "MBA, University of Missouri System",
+        "Certified Investment Management Consultant® (CIMC®)",
+        "Retirement Management Advisor® (RMA®)"
+      ],
+      "slug": "todd-gilmore"
     },
     {
       "displayName": "Todd Kitzens",
