@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-19T16:00:23Z",
-  "count": 308,
+  "lastChanged": "2026-10-20T13:58:04Z",
+  "count": 310,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -2710,6 +2710,27 @@
         "BA in Economics, Harvard University"
       ],
       "slug": "greg-tull"
+    },
+    {
+      "displayName": "Gregory A. Kort",
+      "designations": [],
+      "nameAsPublished": "Gregory A. Kort",
+      "title": "Associate Vice President, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Grosse Pointe Woods",
+      "state": "MI",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/gregory-a-kort",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/187849ba063d4621154aa9bcaf65d753467032e5-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/187849ba063d4621154aa9bcaf65d753467032e5-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/187849ba063d4621154aa9bcaf65d753467032e5-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "Bachelors or Business Administration Walsh College"
+      ],
+      "slug": "gregory-a-kort"
     },
     {
       "displayName": "Harry Krigman",
@@ -6491,6 +6512,31 @@
         "BS in Finance, University of Hartford"
       ],
       "slug": "scott-brockman"
+    },
+    {
+      "displayName": "Scott Chapman",
+      "designations": [
+        "CFA®"
+      ],
+      "nameAsPublished": "Scott Chapman, CFA®",
+      "title": "Principal, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "San Anselmo",
+      "state": "CA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/scott-chapman",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b4e41a73b63a0b6cff2d0166bc8ced0c0857c001-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b4e41a73b63a0b6cff2d0166bc8ced0c0857c001-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b4e41a73b63a0b6cff2d0166bc8ced0c0857c001-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "BS in Accounting, Santa Clara University",
+        "MBA in Finance, Golden Gate University",
+        "Chartered Financial Analyst® "
+      ],
+      "slug": "scott-chapman"
     },
     {
       "displayName": "Scott Coles",
