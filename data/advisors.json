@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-21T14:13:56Z",
+  "lastChanged": "2026-10-22T14:13:31Z",
   "count": 310,
   "advisors": [
     {
@@ -1728,7 +1728,7 @@
       "displayName": "Craig Sullivan",
       "designations": [],
       "nameAsPublished": "Craig Sullivan",
-      "title": "Senior Vice President, Wealth Advisor",
+      "title": "Managing Director, Wealth Advisor",
       "email": "craig.sullivan@farther.com",
       "phone": "+15614484540",
       "phoneExt": null,
@@ -2678,9 +2678,9 @@
       "state": "CA",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/greg-montejo",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/5b316f1ec33dc47966fbf0f7a17ec0b13c70f641-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/5b316f1ec33dc47966fbf0f7a17ec0b13c70f641-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/5b316f1ec33dc47966fbf0f7a17ec0b13c70f641-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/d0dca8abef52d82154a17566b9f9274933035662-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/d0dca8abef52d82154a17566b9f9274933035662-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/d0dca8abef52d82154a17566b9f9274933035662-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "Retirement Income Certified Professional (RICP®)"
       ],
@@ -2716,10 +2716,10 @@
       "designations": [],
       "nameAsPublished": "Gregory A. Kort",
       "title": "Associate Vice President, Wealth Advisor",
-      "email": null,
-      "phone": null,
+      "email": "gregory.kort@farther.com",
+      "phone": "+12483853373",
       "phoneExt": null,
-      "phoneDisplay": null,
+      "phoneDisplay": "(248) 385-3373",
       "city": "Grosse Pointe Woods",
       "state": "MI",
       "team": null,
@@ -4423,8 +4423,11 @@
     },
     {
       "displayName": "Kirby Houchin",
-      "designations": [],
-      "nameAsPublished": "Kirby Houchin",
+      "designations": [
+        "CFP®",
+        "CDAA"
+      ],
+      "nameAsPublished": "Kirby Houchin, CFP®, CDAA",
       "title": "Vice President, Wealth Advisor",
       "email": "kirby.houchin@farther.com",
       "phone": null,
