@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-22T14:13:31Z",
-  "count": 310,
+  "lastChanged": "2026-10-27T15:01:01Z",
+  "count": 309,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -2715,7 +2715,7 @@
       "displayName": "Gregory A. Kort",
       "designations": [],
       "nameAsPublished": "Gregory A. Kort",
-      "title": "Associate Vice President, Wealth Advisor",
+      "title": "Vice President, Wealth Advisor",
       "email": "gregory.kort@farther.com",
       "phone": "+12483853373",
       "phoneExt": null,
@@ -6125,25 +6125,6 @@
         "National Honors Society, Phi Kappa Phi"
       ],
       "slug": "robert-fuest"
-    },
-    {
-      "displayName": "Robert Howarth",
-      "designations": [],
-      "nameAsPublished": "Robert Howarth",
-      "title": "EVP Innovation & Strategic Programs",
-      "email": null,
-      "phone": null,
-      "phoneExt": null,
-      "phoneDisplay": null,
-      "city": null,
-      "state": null,
-      "team": null,
-      "profileUrl": "https://www.farther.com/advisor/robert-howarth",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b5bb810af3551862384d1e7a304e9ae25d8d62dc-360x400.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b5bb810af3551862384d1e7a304e9ae25d8d62dc-360x400.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b5bb810af3551862384d1e7a304e9ae25d8d62dc-360x400.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
-      "credentials": [],
-      "slug": "robert-howarth"
     },
     {
       "displayName": "Robert Olsen",
