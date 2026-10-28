@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-27T15:01:01Z",
+  "lastChanged": "2026-10-28T15:37:06Z",
   "count": 309,
   "advisors": [
     {
@@ -1221,9 +1221,9 @@
       "city": "New York",
       "state": "NY",
       "team": {
-        "name": "Focus Team",
-        "url": "https://www.farther.com/teams/focus-team",
-        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/08a7cd4443988fc9ce2c9d85cbee083828db9fc4-200x34.svg"
+        "name": "Farther x Google Team",
+        "url": "https://www.farther.com/teams/farther-x-google-team",
+        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/fb1355345638e828b7727a43f0d084f029419ca1-1664x888.png"
       },
       "profileUrl": "https://www.farther.com/advisor/carrie-ma",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/11f8cbded1a98a729b7a77724e5896131740f5f4-720x800.png",
@@ -2603,7 +2603,7 @@
       "team": {
         "name": "Farther x Google Team",
         "url": "https://www.farther.com/teams/farther-x-google-team",
-        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/62b8ebf3e4716750bc942780189f031d383f3e03-832x444.png"
+        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/fb1355345638e828b7727a43f0d084f029419ca1-1664x888.png"
       },
       "profileUrl": "https://www.farther.com/advisor/gary-corderman",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/cf956abb9722398f0ec2307a923bfaaccaf514ae-580x604.avif",
@@ -3167,11 +3167,7 @@
       "phoneDisplay": "(480) 944-0880",
       "city": "Tempe",
       "state": "AZ",
-      "team": {
-        "name": "Focus Team",
-        "url": "https://www.farther.com/teams/focus-team",
-        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/08a7cd4443988fc9ce2c9d85cbee083828db9fc4-200x34.svg"
-      },
+      "team": null,
       "profileUrl": "https://www.farther.com/advisor/jay-chang",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f2b95be87b4dc1f17e6b7030e6686590cb5ff25b-720x800.png",
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f2b95be87b4dc1f17e6b7030e6686590cb5ff25b-720x800.png?fm=jpg&q=90",
