@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-28T15:37:06Z",
-  "count": 309,
+  "lastChanged": "2026-10-30T15:25:52Z",
+  "count": 310,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -3132,6 +3132,28 @@
         "BS in Business Administration, Emporia State University - Kansas"
       ],
       "slug": "jared-rand"
+    },
+    {
+      "displayName": "Jason Beckley",
+      "designations": [],
+      "nameAsPublished": "Jason Beckley",
+      "title": "Principal, Wealth Advisor",
+      "email": "jason.beckley@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Denver",
+      "state": "NC",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/jason-beckley",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0b8d7a86fa8424ef0d9a9b3ccb26bedd6db42d25-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0b8d7a86fa8424ef0d9a9b3ccb26bedd6db42d25-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0b8d7a86fa8424ef0d9a9b3ccb26bedd6db42d25-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "BSBA with concentration in Financial Management, UNC Charlotte 2002",
+        "MBA with concentration in Business Finance, UNC Charlotte 2010"
+      ],
+      "slug": "jason-beckley"
     },
     {
       "displayName": "Jason Brown",
