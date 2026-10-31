@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-10-30T15:25:52Z",
+  "lastChanged": "2026-10-31T14:54:07Z",
   "count": 310,
   "advisors": [
     {
@@ -2269,6 +2269,28 @@
         "BS in Business Admin"
       ],
       "slug": "doug-rodgers"
+    },
+    {
+      "displayName": "Dwayne Whitener",
+      "designations": [],
+      "nameAsPublished": "Dwayne Whitener",
+      "title": "Principal, Wealth Advisor",
+      "email": "dwayne.whitener@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Hickory",
+      "state": "NC",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/dwayne-whitener",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f6b10eebbaa86c2d4a8338791d331d75a8f1bc27-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f6b10eebbaa86c2d4a8338791d331d75a8f1bc27-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f6b10eebbaa86c2d4a8338791d331d75a8f1bc27-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "BS Business Administration from Gardner-Webb University",
+        "AAS Accounting from Catawba Valley Community College"
+      ],
+      "slug": "dwayne-whitener"
     },
     {
       "displayName": "Edward Jenkins",
@@ -4678,6 +4700,28 @@
       "slug": "louis-blyth-llanes"
     },
     {
+      "displayName": "Louis Wetmore",
+      "designations": [],
+      "nameAsPublished": "Louis Wetmore",
+      "title": "Vice President, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Hickory",
+      "state": "NC",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/louis-wetmore",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e9ff289069cd6c197e2eac06f588e8bed77a0990-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e9ff289069cd6c197e2eac06f588e8bed77a0990-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e9ff289069cd6c197e2eac06f588e8bed77a0990-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "MBA University of Memphis",
+        "Certified Superior Court Mediator"
+      ],
+      "slug": "louis-wetmore"
+    },
+    {
       "displayName": "Lynn Baldwin",
       "designations": [
         "CFP®",
@@ -6516,31 +6560,6 @@
       "slug": "scott-brockman"
     },
     {
-      "displayName": "Scott Chapman",
-      "designations": [
-        "CFA®"
-      ],
-      "nameAsPublished": "Scott Chapman, CFA®",
-      "title": "Principal, Wealth Advisor",
-      "email": null,
-      "phone": null,
-      "phoneExt": null,
-      "phoneDisplay": null,
-      "city": "San Anselmo",
-      "state": "CA",
-      "team": null,
-      "profileUrl": "https://www.farther.com/advisor/scott-chapman",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b4e41a73b63a0b6cff2d0166bc8ced0c0857c001-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b4e41a73b63a0b6cff2d0166bc8ced0c0857c001-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b4e41a73b63a0b6cff2d0166bc8ced0c0857c001-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
-      "credentials": [
-        "BS in Accounting, Santa Clara University",
-        "MBA in Finance, Golden Gate University",
-        "Chartered Financial Analyst® "
-      ],
-      "slug": "scott-chapman"
-    },
-    {
       "displayName": "Scott Coles",
       "designations": [
         "CLU®",
@@ -6564,33 +6583,6 @@
         "Complex Estate & Tax Specialist"
       ],
       "slug": "scott-coles"
-    },
-    {
-      "displayName": "Scott Sanford",
-      "designations": [
-        "CFP®",
-        "CLU®",
-        "ChFC®"
-      ],
-      "nameAsPublished": "Scott Sanford, CFP®, CLU®, ChFC®",
-      "title": "Principal, Wealth Advisor",
-      "email": "scott.sanford@harmonypca.com",
-      "phone": "+17204904793",
-      "phoneExt": null,
-      "phoneDisplay": "(720) 490-4793",
-      "city": "Denver",
-      "state": "CO",
-      "team": null,
-      "profileUrl": "https://www.farther.com/advisor/scott-sanford",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/36239810f2bc47be114d62e0bf380a3647f602e3-580x604.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/36239810f2bc47be114d62e0bf380a3647f602e3-580x604.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/36239810f2bc47be114d62e0bf380a3647f602e3-580x604.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
-      "credentials": [
-        "CFP®",
-        "CLU®",
-        "ChFC®"
-      ],
-      "slug": "scott-sanford"
     },
     {
       "displayName": "Scott Svoboda",
