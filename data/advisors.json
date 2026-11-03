@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-02T18:58:08Z",
+  "lastChanged": "2026-11-03T16:43:11Z",
   "count": 310,
   "advisors": [
     {
@@ -1837,7 +1837,11 @@
       "phoneDisplay": null,
       "city": "Tampa Bay",
       "state": "FL",
-      "team": null,
+      "team": {
+        "name": "Pragmatic Wealth Planning",
+        "url": "https://www.farther.com/teams/pragmatic-wealth-planning",
+        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f02682858248266036faa9cf7fe03887b07890a3-264x34.svg"
+      },
       "profileUrl": "https://www.farther.com/advisor/daniel-herrera",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/4509ff9ecf768e46cc45e08d2683730334f9776c-1160x1200.avif",
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/4509ff9ecf768e46cc45e08d2683730334f9776c-1160x1200.avif?fm=jpg&q=90",
