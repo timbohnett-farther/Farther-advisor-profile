@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-03T16:43:11Z",
+  "lastChanged": "2026-11-04T16:41:17Z",
   "count": 310,
   "advisors": [
     {
@@ -5237,9 +5237,9 @@
       "state": "MA",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/michael-daudelin",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/9fe474bbe2cdf3e2b4ac7dc8ac57030538b504b9-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/9fe474bbe2cdf3e2b4ac7dc8ac57030538b504b9-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/9fe474bbe2cdf3e2b4ac7dc8ac57030538b504b9-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/a27cf3c7723b20f9dcb047f6c22d532b2e07c910-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/a27cf3c7723b20f9dcb047f6c22d532b2e07c910-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/a27cf3c7723b20f9dcb047f6c22d532b2e07c910-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "BS in Business, Entrepreneurship, and Professional Studies"
       ],
