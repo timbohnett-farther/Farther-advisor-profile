@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-04T16:41:17Z",
+  "lastChanged": "2026-11-05T16:56:49Z",
   "count": 310,
   "advisors": [
     {
@@ -5562,11 +5562,7 @@
       "phoneDisplay": null,
       "city": "Bartlesville",
       "state": "OK",
-      "team": {
-        "name": "First Investment Corporation",
-        "url": "https://www.farther.com/teams/first-investment-corporation",
-        "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/bec4f704bd02fb628dc1219f54f5a6a439884c48-263x36.svg"
-      },
+      "team": null,
       "profileUrl": "https://www.farther.com/advisor/morgan-barnhill",
       "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/49184264f2adc26301329fd555f70f0e3a673f3b-720x800.png",
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/49184264f2adc26301329fd555f70f0e3a673f3b-720x800.png?fm=jpg&q=90",
