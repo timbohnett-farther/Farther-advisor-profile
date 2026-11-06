@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-05T16:56:49Z",
-  "count": 310,
+  "lastChanged": "2026-11-06T16:28:40Z",
+  "count": 311,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -2562,6 +2562,27 @@
         "CERTIFIED FINANCIAL PLANNER®"
       ],
       "slug": "evor-vattuone"
+    },
+    {
+      "displayName": "Faisal Raza",
+      "designations": [],
+      "nameAsPublished": "Faisal Raza",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": "faisal.raza@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Dallas",
+      "state": "TX",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/faisal-raza",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b991e08e8f14a346ac1200db6b7fe129a92d1615-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b991e08e8f14a346ac1200db6b7fe129a92d1615-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b991e08e8f14a346ac1200db6b7fe129a92d1615-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "BBA in Accounting & Taxation, Hofstra University"
+      ],
+      "slug": "faisal-raza"
     },
     {
       "displayName": "Felton Jenkins",
