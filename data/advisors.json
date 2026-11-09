@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-06T16:28:40Z",
-  "count": 311,
+  "lastChanged": "2026-11-09T19:19:49Z",
+  "count": 312,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -5851,6 +5851,30 @@
         "Chartered Retirement Plans Specialist (CRPS®)"
       ],
       "slug": "parker-osullivan"
+    },
+    {
+      "displayName": "Pat O'Brien",
+      "designations": [
+        "CFP®"
+      ],
+      "nameAsPublished": "Pat O'Brien, CFP®",
+      "title": "Managing Director, Wealth Advisor",
+      "email": "pat.obrien@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Saint Louis",
+      "state": "MO",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/pat-obrien-cfp",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8cdd25af0e7e50d71fa75d99b8590935583934d0-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8cdd25af0e7e50d71fa75d99b8590935583934d0-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/8cdd25af0e7e50d71fa75d99b8590935583934d0-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "CERTIFIED FINANCIAL PLANNER® professional (CFP®)",
+        "Certified Trust and Fiduciary Advisor (CTFA)"
+      ],
+      "slug": "pat-obrien-cfp"
     },
     {
       "displayName": "Patrick Golden",
