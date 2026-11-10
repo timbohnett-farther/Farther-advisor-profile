@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-09T19:19:49Z",
-  "count": 312,
+  "lastChanged": "2026-11-10T16:40:44Z",
+  "count": 313,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -5101,7 +5101,7 @@
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7e5369215f347152b4dca870a618e3a4a01ecd7a-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "BA, University of Notre Dame",
-        "Certified Financial Analyst®"
+        "Chartered Financial Analyst®"
       ],
       "slug": "matthew-desmond"
     },
@@ -5239,9 +5239,9 @@
       "state": "NJ",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/michael-cear",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0ae2d391c50c411e6d3b1d9e1ed942d42c5668f7-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0ae2d391c50c411e6d3b1d9e1ed942d42c5668f7-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0ae2d391c50c411e6d3b1d9e1ed942d42c5668f7-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b758f2580260bd10ae198ad25d203d92af936c5d-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b758f2580260bd10ae198ad25d203d92af936c5d-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/b758f2580260bd10ae198ad25d203d92af936c5d-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [],
       "slug": "michael-cear"
     },
@@ -6453,6 +6453,29 @@
         "Certified Wealth Strategist"
       ],
       "slug": "ryan-thomas"
+    },
+    {
+      "displayName": "Sahil Vakil",
+      "designations": [],
+      "nameAsPublished": "Sahil Vakil",
+      "title": "Managing Director, Wealth Advisor",
+      "email": "sahil.vakil@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "New York",
+      "state": "NY",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/sahil-vakil",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e01472b7b4a519c2f0a58ef91d1056c9b3a3c654-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e01472b7b4a519c2f0a58ef91d1056c9b3a3c654-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e01472b7b4a519c2f0a58ef91d1056c9b3a3c654-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "MBA: The Wharton School",
+        "Certified Financial Analyst",
+        "CERTIFIED FINANCIAL PLANNER®"
+      ],
+      "slug": "sahil-vakil"
     },
     {
       "displayName": "Sam Schwartz",
