@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-10T16:40:44Z",
+  "lastChanged": "2026-11-11T16:45:49Z",
   "count": 313,
   "advisors": [
     {
@@ -1785,9 +1785,9 @@
       "state": "MO",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/dan-kellar",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/d427b7a5bae897a33f53ba418bbb9e329b52a2b9-1160x1200.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/d427b7a5bae897a33f53ba418bbb9e329b52a2b9-1160x1200.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/d427b7a5bae897a33f53ba418bbb9e329b52a2b9-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/2564717a32e34abb28df189a900f494a9f62e2b8-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/2564717a32e34abb28df189a900f494a9f62e2b8-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/2564717a32e34abb28df189a900f494a9f62e2b8-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "Business, University of Missouri-Columbia",
         "Series 65",
@@ -1830,7 +1830,7 @@
       "displayName": "Daniel Herrera",
       "designations": [],
       "nameAsPublished": "Daniel Herrera",
-      "title": "Vice President",
+      "title": "VP, Business Development & Client Success",
       "email": null,
       "phone": null,
       "phoneExt": null,
@@ -3054,7 +3054,8 @@
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/29d8755f9ad8eaf729b2bd7025201a97dc504e39-720x800.png?fm=jpg&q=90",
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/29d8755f9ad8eaf729b2bd7025201a97dc504e39-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
-        "MBA Finance, University of Michigan, Ross School of Business"
+        "MBA Finance, University of Michigan, Ross School of Business",
+        "Chartered Financial Analyst®"
       ],
       "slug": "james-babcock"
     },
@@ -4454,9 +4455,9 @@
         "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dce79ebedc5a555601be6e9dbb92e46586ecc6ac-212x34.svg"
       },
       "profileUrl": "https://www.farther.com/advisor/kevin-jamali",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/a12d273dd747591d22fbd807f781f39f483d8b1b-1160x1200.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/a12d273dd747591d22fbd807f781f39f483d8b1b-1160x1200.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/a12d273dd747591d22fbd807f781f39f483d8b1b-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0958fb700b5df0a729ffe37820107037e40b5f0d-600x600.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0958fb700b5df0a729ffe37820107037e40b5f0d-600x600.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/0958fb700b5df0a729ffe37820107037e40b5f0d-600x600.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "Former quantitative (systematic) fund manager",
         "Extensive experience using alternative investments"
@@ -5733,9 +5734,9 @@
         "logoUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dce79ebedc5a555601be6e9dbb92e46586ecc6ac-212x34.svg"
       },
       "profileUrl": "https://www.farther.com/advisor/nelson-bradshaw",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dffefba20f493bdd9e836988ae8d7259bd385fd1-1160x1198.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dffefba20f493bdd9e836988ae8d7259bd385fd1-1160x1198.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/dffefba20f493bdd9e836988ae8d7259bd385fd1-1160x1198.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/ce51c4651e9ba4a3ec8df3c4c6dc1b29d45170dd-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/ce51c4651e9ba4a3ec8df3c4c6dc1b29d45170dd-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/ce51c4651e9ba4a3ec8df3c4c6dc1b29d45170dd-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "Certified Exit Planning Advisor®"
       ],
@@ -5921,8 +5922,10 @@
     },
     {
       "displayName": "Paul Salvetti",
-      "designations": [],
-      "nameAsPublished": "Paul Salvetti",
+      "designations": [
+        "CFA"
+      ],
+      "nameAsPublished": "Paul Salvetti, CFA",
       "title": "Vice President, Institutional & Retirement Plan Advisor",
       "email": "paul.salvetti@farther.com",
       "phone": null,
@@ -5937,7 +5940,7 @@
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7f5c9301a86df1588be55e9a806958c2b5fde7b6-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "BS in Financial Economics, Binghamton University",
-        "Chartered Financial Analyst"
+        "Chartered Financial Analyst®"
       ],
       "slug": "paul-salvetti"
     },
@@ -6456,8 +6459,11 @@
     },
     {
       "displayName": "Sahil Vakil",
-      "designations": [],
-      "nameAsPublished": "Sahil Vakil",
+      "designations": [
+        "CFA",
+        "CFP®"
+      ],
+      "nameAsPublished": "Sahil Vakil, CFA, CFP®",
       "title": "Managing Director, Wealth Advisor",
       "email": "sahil.vakil@farther.com",
       "phone": null,
@@ -6472,8 +6478,8 @@
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e01472b7b4a519c2f0a58ef91d1056c9b3a3c654-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "MBA: The Wharton School",
-        "Certified Financial Analyst",
-        "CERTIFIED FINANCIAL PLANNER®"
+        "CERTIFIED FINANCIAL PLANNER®",
+        "Chartered Financial Analyst®"
       ],
       "slug": "sahil-vakil"
     },
@@ -7652,7 +7658,7 @@
       "phone": null,
       "phoneExt": null,
       "phoneDisplay": null,
-      "city": null,
+      "city": "Traverse City, MI",
       "state": null,
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/zach-liggett",
@@ -7660,7 +7666,7 @@
       "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?fm=jpg&q=90",
       "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/1a580ebf9eb17f3992f822ebc993f4a12cb17c19-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
-        "Certified Financial Analyst®"
+        "Chartered Financial Analyst®"
       ],
       "slug": "zach-liggett"
     },
