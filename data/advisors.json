@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-11T16:45:49Z",
-  "count": 313,
+  "lastChanged": "2026-11-12T17:13:55Z",
+  "count": 314,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -5772,6 +5772,33 @@
         "CRPC®"
       ],
       "slug": "nicholas-pantle"
+    },
+    {
+      "displayName": "Nik Jeevaraj",
+      "designations": [
+        "ChFC®"
+      ],
+      "nameAsPublished": "Nik Jeevaraj, ChFC®",
+      "title": "Vice President, Wealth Advisor",
+      "email": "nik.jeevaraj@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": null,
+      "state": null,
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/nik-jeevaraj",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f6e743a8ff941421ac027a29f452e6def34307b3-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f6e743a8ff941421ac027a29f452e6def34307b3-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f6e743a8ff941421ac027a29f452e6def34307b3-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "Bachelor of Science in Finance — The University of Texas at Dallas (2015)",
+        "Chartered Financial Consultant® (ChFC®)",
+        "Certified Financial Fiduciary® (CFF®)",
+        "Founder & CEO, Ninety Nine Wealth",
+        "Multiple-time Million Dollar Round Table (MDRT) qualifier"
+      ],
+      "slug": "nik-jeevaraj"
     },
     {
       "displayName": "Norman Levesque",
