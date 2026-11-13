@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-12T17:13:55Z",
+  "lastChanged": "2026-11-13T16:50:50Z",
   "count": 314,
   "advisors": [
     {
@@ -2640,7 +2640,7 @@
         "AIF®"
       ],
       "nameAsPublished": "Gary Corderman, AIF®",
-      "title": "Managing Director",
+      "title": "Principal, Wealth Advisor",
       "email": "gary.corderman@farther.com",
       "phone": "+13107429630",
       "phoneExt": null,
@@ -2748,9 +2748,9 @@
       "state": "CA",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/greg-tull",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/87d192e596c0343295655dfc38ee63b70db76993-1160x1200.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/87d192e596c0343295655dfc38ee63b70db76993-1160x1200.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/87d192e596c0343295655dfc38ee63b70db76993-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/4223022fc534a47df7bb407fb52b34c80f80bab4-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/4223022fc534a47df7bb407fb52b34c80f80bab4-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/4223022fc534a47df7bb407fb52b34c80f80bab4-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "CFA® Charterholder",
         "MS in Economics, University College Dublin",
@@ -5709,9 +5709,9 @@
       "state": "OH",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/neal-watson",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f8942ee4bf25c84e6bbc4e76db5b8766357d184e-720x800.png",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f8942ee4bf25c84e6bbc4e76db5b8766357d184e-720x800.png?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f8942ee4bf25c84e6bbc4e76db5b8766357d184e-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/696a8e220bfe8e2387dc570874a8ff79db09f0f1-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/696a8e220bfe8e2387dc570874a8ff79db09f0f1-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/696a8e220bfe8e2387dc570874a8ff79db09f0f1-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [],
       "slug": "neal-watson"
     },
