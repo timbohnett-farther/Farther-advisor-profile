@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-13T16:50:50Z",
-  "count": 314,
+  "lastChanged": "2026-11-14T15:24:33Z",
+  "count": 318,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -1413,6 +1413,28 @@
         "2008-25 Five Star: Wealth Manager"
       ],
       "slug": "chris-douglas"
+    },
+    {
+      "displayName": "Chris Racadio",
+      "designations": [],
+      "nameAsPublished": "Chris Racadio",
+      "title": "Vice President, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Redlands",
+      "state": "CA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/chris-racadio",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/588f9bee2801b54fa600171e5ac334486963387e-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/588f9bee2801b54fa600171e5ac334486963387e-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/588f9bee2801b54fa600171e5ac334486963387e-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "MBA in Finance, University of Redlands",
+        "BS in Business Administration, Finance, UC Riverside"
+      ],
+      "slug": "chris-racadio"
     },
     {
       "displayName": "Chris Roy",
@@ -4958,6 +4980,32 @@
       "slug": "mark-phillips"
     },
     {
+      "displayName": "Mark Shelby",
+      "designations": [
+        "AIF®",
+        "CF2®"
+      ],
+      "nameAsPublished": "Mark Shelby, AIF®, CF2®",
+      "title": "Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Williamsburg",
+      "state": "VA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/mark-shelby",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f3a086c793e6e42a378d4d4b245bddec03545133-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f3a086c793e6e42a378d4d4b245bddec03545133-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/f3a086c793e6e42a378d4d4b245bddec03545133-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "Accredited Investment Fiduciary (AIF®)",
+        "Certified Financial Fiduciary (CF2®)",
+        "Candidate for CFP® certification"
+      ],
+      "slug": "mark-shelby"
+    },
+    {
       "displayName": "Martin Gaughan",
       "designations": [
         "CFP®",
@@ -5318,6 +5366,31 @@
       "slug": "michael-flatley"
     },
     {
+      "displayName": "Michael Gennawey",
+      "designations": [
+        "CRPC®"
+      ],
+      "nameAsPublished": "Michael Gennawey, CRPC®",
+      "title": "Principal, Wealth Advisor",
+      "email": "michael.gennawey@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Huntington Beach",
+      "state": "CA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/michael-gennawey",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/63d0cbeea95b85aa58053a363e4f5b8c72172f2b-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/63d0cbeea95b85aa58053a363e4f5b8c72172f2b-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/63d0cbeea95b85aa58053a363e4f5b8c72172f2b-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "BA Economics, University of California at Irvine",
+        "Chartered Retirement Planning Counselor®",
+        "ETF.com Top 100 Advisors (USA)"
+      ],
+      "slug": "michael-gennawey"
+    },
+    {
       "displayName": "Michael Hudson",
       "designations": [
         "AIF®"
@@ -5440,6 +5513,31 @@
         "CERTIFIED FINANCIAL PLANNER®"
       ],
       "slug": "michael-orzel"
+    },
+    {
+      "displayName": "Michael Rappaport",
+      "designations": [
+        "CFP®"
+      ],
+      "nameAsPublished": "Michael Rappaport, CFP®",
+      "title": "Vice President, Wealth Advisor",
+      "email": null,
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Redlands",
+      "state": "CA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/michael-rappaport-cfp",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e9287cf242558cc202fc915956528b7f85f371d2-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e9287cf242558cc202fc915956528b7f85f371d2-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/e9287cf242558cc202fc915956528b7f85f371d2-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "CERTIFIED FINANCIAL PLANNER®",
+        "MBA in Entrepreneurial Management ",
+        "A. Gary Anderson Graduate School of Management, UC Riverside"
+      ],
+      "slug": "michael-rappaport-cfp"
     },
     {
       "displayName": "Mike Butler",
