@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-14T15:24:33Z",
-  "count": 318,
+  "lastChanged": "2026-11-16T19:02:20Z",
+  "count": 319,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -3291,6 +3291,29 @@
         "MFA - Lesley University"
       ],
       "slug": "jay-handy"
+    },
+    {
+      "displayName": "Jeff Ardantz",
+      "designations": [
+        "CFP®"
+      ],
+      "nameAsPublished": "Jeff Ardantz, CFP®",
+      "title": "Vice President, Wealth Advisor",
+      "email": "jeff.ardantz@farther.com",
+      "phone": "+18583262848",
+      "phoneExt": null,
+      "phoneDisplay": "(858) 326-2848",
+      "city": "Encinitas",
+      "state": "CA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/jeff-ardantz-cfp",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7be50c78fab08a15defa955b90f81d16b7dad123-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7be50c78fab08a15defa955b90f81d16b7dad123-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7be50c78fab08a15defa955b90f81d16b7dad123-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "CERTIFIED FINANCIAL PLANNER® (CFP®)​​​​‌‍​‍​‍‌‍‌​‍‌‍‍‌‌‍‌‌‍‍‌‌‍‍​‍​‍​‍‍​‍​‍‌​‌‍​‌‌‍‍‌‍‍‌‌‌​‌‍‌​‍‍‌‍‍‌‌‍​‍​‍​‍​​‍​‍‌‍‍​‌​‍‌‍‌‌‌‍‌‍​‍​‍​‍‍​‍​‍​‍‌​‌‌​‌‌‌‌‍‌​‌‍‍‌‌‍​‍‌‍‍‌‌‍‍‌‌​‌‍‌‌‌‍‍‌‌​​‍‌‍‌‌‌‍‌​‌‍‍‌‌‌​​‍‌‍‌‌‍‌‍‌​‌‍‌‌​‌‌​​‌​‍‌‍‌‌‌​‌‍‌‌‌‍‍‌‌​‌‍​‌‌‌​‌‍‍‌‌‍‌‍‍​‍‌‍‍‌‌‍‌​​‌‌‍​‌‌‍‌​‌‌‍‌‍‍‌‌​‌‍‌​‍​‍‌‌‌​‌‍‍‌‌‍‌​‍‌‌‍‌‌‍​‌‍‍‌‍‌‌‌‍‌‌‌‍​‌‍‌​‍‌‌​‌‍‌‌​​‌‍‌‌​‌‌‍​‌‌‍‌​‌‌‍‌‍‍‌‌​‌‍‌​‍​‍‌​​‌‍​‌‌‌​‌‍‍​​‌‌‍​‌​‍‌‍‌‌‌‍‌​‌‍‌‌‌‍‍‌‌​‌‍‍‌‌‍​‌‌‍​‌​​‍‌‌​‌‌‌​​‍​​​‍‌‌​‌‌‌​‌​​‌‍​‍‌‍​‌‌​‌‍‌‌‌‌‌‌‌​‍‌‍​​‌​‍‌‌​​‍‌​‌‍‌​‌‌​‌‌‌‌‍‌​‌‍‍‌‌‍​‍‌‍‌‍‍‌‌‍‌​​‌‌‍​‌‌‍‌​‌‌‍‌‍‍‌‌​‌‍‌​‍​‍‌‌‌​‌‍‍‌‌‍‌​‍‌‌‍‌‌‍​‌‍‍‌‍‌‌‌‍‌‌‌‍​‌‍‌​‍‌‍‌‌​‌‍‌‌​​‌‍‌‌​‌‌‍​‌‌‍‌​‌‌‍‌‍‍‌‌​‌‍‌​‍​‍‌‍‌​​‌‍​‌‌‌​‌‍‍​​‌‌‍​‌​‍‌‍‌‌‌‍‌​‌‍‌‌‌‍‍‌‌​‌‍‍‌‌‍​‌‌‍​‌​​‍‌‌​‌‌‌​​‍​​​‍‌‌​‌‌‌​‌​​‍‌‍‌​​‌‍‌‌‌​‍‌​‌​​‌‍‌‌‌‍​‌‌​‌‍‍‌‌‌‍‌‍‌‌​‌‌​​‌‌‌‌‍​‍‌‍​‌‍‍‌‌​‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌‌"
+      ],
+      "slug": "jeff-ardantz-cfp"
     },
     {
       "displayName": "Jeff Hawkins",
@@ -7197,9 +7220,9 @@
       "state": "MN",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/tim-nanson",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/667f58de68cef09f0a25597f69c85ff2f1d4c543-580x604.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/667f58de68cef09f0a25597f69c85ff2f1d4c543-580x604.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/667f58de68cef09f0a25597f69c85ff2f1d4c543-580x604.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/fcb4d1966564526bbb875797f80b3bd7fdc5caee-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/fcb4d1966564526bbb875797f80b3bd7fdc5caee-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/fcb4d1966564526bbb875797f80b3bd7fdc5caee-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "BS in Business/Finance, Loyola Marymount University",
         "CERTIFIED FINANCIAL PLANNER®"
