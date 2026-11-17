@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-16T19:02:20Z",
+  "lastChanged": "2026-11-17T17:58:53Z",
   "count": 319,
   "advisors": [
     {
@@ -5009,8 +5009,8 @@
         "CF2®"
       ],
       "nameAsPublished": "Mark Shelby, AIF®, CF2®",
-      "title": "Wealth Advisor",
-      "email": null,
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": "mark.shelby@farther.com",
       "phone": null,
       "phoneExt": null,
       "phoneDisplay": null,
@@ -5540,9 +5540,10 @@
     {
       "displayName": "Michael Rappaport",
       "designations": [
-        "CFP®"
+        "CFP®",
+        "MBA"
       ],
-      "nameAsPublished": "Michael Rappaport, CFP®",
+      "nameAsPublished": "Michael Rappaport, CFP®, MBA",
       "title": "Vice President, Wealth Advisor",
       "email": null,
       "phone": null,
