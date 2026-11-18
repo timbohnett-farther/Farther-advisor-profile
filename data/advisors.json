@@ -1,6 +1,6 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-17T17:58:53Z",
+  "lastChanged": "2026-11-18T17:40:30Z",
   "count": 319,
   "advisors": [
     {
@@ -4900,10 +4900,9 @@
     {
       "displayName": "Margie Carpenter",
       "designations": [
-        "CFP®",
-        "CDFA®"
+        "CFP®"
       ],
-      "nameAsPublished": "Margie Carpenter, CFP®, CDFA®",
+      "nameAsPublished": "Margie Carpenter, CFP®",
       "title": "Senior Vice President, Wealth Advisor",
       "email": "margie@farther.com",
       "phone": "+19373737368",
@@ -4919,8 +4918,7 @@
       "credentials": [
         "BA, French, Bates College",
         "MBA, Finance, Emory University",
-        "CFP®",
-        "CDFA®"
+        "CFP®"
       ],
       "slug": "margie-carpenter"
     },
@@ -5300,8 +5298,10 @@
     },
     {
       "displayName": "Michael Cear",
-      "designations": [],
-      "nameAsPublished": "Michael Cear",
+      "designations": [
+        "ChFC®"
+      ],
+      "nameAsPublished": "Michael Cear, ChFC®",
       "title": "Senior Vice President, Wealth Advisor",
       "email": "michael.cear@farther.com",
       "phone": "+19084177997",
@@ -5504,9 +5504,9 @@
       "state": "CA",
       "team": null,
       "profileUrl": "https://www.farther.com/advisor/michael-mink",
-      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/714c158f2e3b3e9a52ca9e9aba7378967e4139c6-1160x1200.avif",
-      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/714c158f2e3b3e9a52ca9e9aba7378967e4139c6-1160x1200.avif?fm=jpg&q=90",
-      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/714c158f2e3b3e9a52ca9e9aba7378967e4139c6-1160x1200.avif?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/79514f6cf055338141c59404a1a7889215a9dca4-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/79514f6cf055338141c59404a1a7889215a9dca4-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/79514f6cf055338141c59404a1a7889215a9dca4-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
       "credentials": [
         "BA in History, Tulane University"
       ],
