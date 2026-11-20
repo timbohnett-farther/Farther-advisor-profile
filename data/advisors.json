@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-18T17:40:30Z",
-  "count": 319,
+  "lastChanged": "2026-11-20T17:24:54Z",
+  "count": 320,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -3659,6 +3659,31 @@
         "Chartered Financial Consultant®"
       ],
       "slug": "joe-young"
+    },
+    {
+      "displayName": "Joel Anderson",
+      "designations": [
+        "MBA",
+        "MSFP"
+      ],
+      "nameAsPublished": "Joel\tAnderson, MBA, MSFP",
+      "title": "Vice President, Wealth Advisor",
+      "email": "joel.anderson@farther.com",
+      "phone": "+19103105599",
+      "phoneExt": null,
+      "phoneDisplay": "(910) 310-5599",
+      "city": "Raleigh",
+      "state": "NC",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/joel-anderson",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/99f22a918dfe4ff99ce9903fbe03c7952368db87-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/99f22a918dfe4ff99ce9903fbe03c7952368db87-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/99f22a918dfe4ff99ce9903fbe03c7952368db87-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "MBA, Temple University",
+        "MS in Financial Planning, Golden Gate University"
+      ],
+      "slug": "joel-anderson"
     },
     {
       "displayName": "Joel Estes",
