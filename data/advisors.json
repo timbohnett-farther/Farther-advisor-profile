@@ -1,7 +1,7 @@
 {
   "about": "Active Farther advisors, pulled nightly from the Sanity CMS behind farther.com.",
-  "lastChanged": "2026-11-20T17:24:54Z",
-  "count": 320,
+  "lastChanged": "2026-11-23T20:42:15Z",
+  "count": 321,
   "advisors": [
     {
       "displayName": "Aaron Sheklin",
@@ -502,6 +502,34 @@
         "BS in Microbiology, Louisiana State University"
       ],
       "slug": "barbara-dugan"
+    },
+    {
+      "displayName": "Barbara Treadwell",
+      "designations": [],
+      "nameAsPublished": "Barbara Treadwell",
+      "title": "Senior Vice President, Wealth Advisor",
+      "email": "barbara.treadwell@farther.com",
+      "phone": null,
+      "phoneExt": null,
+      "phoneDisplay": null,
+      "city": "Savannah",
+      "state": "GA",
+      "team": null,
+      "profileUrl": "https://www.farther.com/advisor/barbara-treadwell",
+      "headshotUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7c31cdd1b15a82f7ec53170b5182ac052ecdeaac-720x800.png",
+      "headshotJpgUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7c31cdd1b15a82f7ec53170b5182ac052ecdeaac-720x800.png?fm=jpg&q=90",
+      "headshotSquareUrl": "https://cdn.sanity.io/images/c4sm4c5k/production/7c31cdd1b15a82f7ec53170b5182ac052ecdeaac-720x800.png?w=600&h=600&fit=crop&fm=jpg&q=85",
+      "credentials": [
+        "MA Counseling, University of South Alabama",
+        "Invest in Others Lifetime Achievement Award Finalist",
+        "CERTIFIED FINANCIAL PLANNER® (CFP®) ",
+        "Behavioral Financial Advisor™ (BFA™)",
+        "Chartered Life Underwriter® (CLU®)",
+        "Chartered Financial Consultant® (ChFC®)",
+        "Chartered Advisor in Philanthropy® (CAP®)",
+        "Registered Employee Benefits Consultant® (REBC®)"
+      ],
+      "slug": "barbara-treadwell"
     },
     {
       "displayName": "Barry Bigelow",
